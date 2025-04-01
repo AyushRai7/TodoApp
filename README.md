@@ -12,7 +12,7 @@ This is an advanced Todo App built using React, Redux, and Material UI. It featu
 - **Persistent State Management:** Uses Redux for centralized task management.
 
 ## Demo
-![Homepage Screenshot](assets/homepage1.png)
+![Homepage Screenshot](https://github.com/user-attachments/assets/3022453b-3311-426e-bb61-482998357f17)
 ![Task List Screenshot](assets/homepage2.png)
 
 ## Installation and Setup
