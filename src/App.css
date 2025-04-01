@@ -1,0 +1,31 @@
+body {
+  background: linear-gradient(to right, #ece9e6, #ffffff);
+  font-family: "Poppins", sans-serif;
+}
+
+.container {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+.task-card {
+  border-radius: 10px !important;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.high {
+  background-color: #ffebee !important;
+  border-left: 5px solid #d32f2f;
+}
+
+.medium {
+  background-color: #fff3e0 !important;
+  border-left: 5px solid #f57c00;
+}
+
+.low {
+  background-color: #e8f5e9 !important;
+  border-left: 5px solid #388e3c;
+}
