@@ -13,7 +13,7 @@ This is an advanced Todo App built using React, Redux, and Material UI. It featu
 
 ## Demo
 ![Homepage Screenshot](https://github.com/user-attachments/assets/3022453b-3311-426e-bb61-482998357f17)
-![Task List Screenshot](assets/homepage2.png)
+![Task List Screenshot](https://github.com/user-attachments/assets/9461ae14-7c80-4c6e-9d4d-fd19e761054d)
 
 ## Installation and Setup
 ### Prerequisites
